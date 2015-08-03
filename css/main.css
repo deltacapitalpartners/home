@@ -1,3 +1,8 @@
 .servicelist {
 	list-style-type: none;
 }
+.text-white {
+  color: #fdfdfd;
+}
+a.text-white:hover {
+  color: #fdfdfd;
