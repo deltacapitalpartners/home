@@ -75,18 +75,6 @@ body {
     margin: 0 auto;
 }
 
-.flex, .flex > div[class*='col-'] {  
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    flex:1 0 auto;
-}
-
-#NBpanel {
-    border: 0;
-}
 
 #deltaSymbol {
     display: inline-block;
